@@ -2,7 +2,7 @@
 layout: page
 permalink: /friends/
 title: friends
-description: Freunde, die mir immer wieder in meinen Projekten geholfen haben.
+description:
 ---
 <a href="http://baben-photography.com/" target="_blank">Philipp Baben der Erde, Kamera</a>
 <br>
