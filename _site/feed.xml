@@ -6,9 +6,21 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Jan 2016 14:08:58 +0100</pubDate>
-    <lastBuildDate>Sun, 03 Jan 2016 14:08:58 +0100</lastBuildDate>
+    <pubDate>Sun, 03 Jan 2016 14:25:23 +0100</pubDate>
+    <lastBuildDate>Sun, 03 Jan 2016 14:25:23 +0100</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Auch ein Post</title>
+        <description>&lt;p&gt;Nichts zu melden.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 26 Dec 2015 21:09:12 +0100</pubDate>
+        <link>/2015/12/26/title.html</link>
+        <guid isPermaLink="true">/2015/12/26/title.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Hier bin ich!</title>
