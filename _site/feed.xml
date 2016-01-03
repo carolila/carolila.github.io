@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>carolin genreith</title>
+    <description>Web-Site von Carolin  Genreith, Filmemacherin.
+</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 03 Jan 2016 14:08:58 +0100</pubDate>
+    <lastBuildDate>Sun, 03 Jan 2016 14:08:58 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Hier bin ich!</title>
+        <description>&lt;p&gt;Hier kommt der erste Post auf der Testinstanz.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 26 Dec 2015 21:09:12 +0100</pubDate>
+        <link>/2015/12/26/ersterPost.html</link>
+        <guid isPermaLink="true">/2015/12/26/ersterPost.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>a post with code</title>
+        <description>&lt;p&gt;This theme implements a built-in Jekyll feature, the use of Pygments, for sytanx highlighting. It supports more than 100 languages. This example is in C++. All you have to do is wrap your code in a liquid tag:&lt;/p&gt;
+
+&lt;p&gt;{% highlight c++ %}  &lt;br /&gt; code code code &lt;br /&gt; {% endhighlight %}&lt;/p&gt;
+
+&lt;p&gt;Produces something like this:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c--&quot; data-lang=&quot;c++&quot;&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;argc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;argv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[])&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;myString&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+	&lt;span class=&quot;n&quot;&gt;cout&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;input a string: &quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;getline&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;myString&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+	&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;length&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;myString&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+	
+	&lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;charArray&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+
+	&lt;span class=&quot;n&quot;&gt;charArray&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;myString&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+		&lt;span class=&quot;n&quot;&gt;cout&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;charArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot; &quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+	
+	&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+</description>
+        <pubDate>Wed, 15 Jul 2015 17:09:00 +0200</pubDate>
+        <link>/2015/07/15/title.html</link>
+        <guid isPermaLink="true">/2015/07/15/title.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>a post with images</title>
+        <description>&lt;p&gt;Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Fingerstache four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch.&lt;/p&gt;
+
+&lt;div class=&quot;img_row&quot;&gt;
+	&lt;img class=&quot;col three&quot; src=&quot;/img/9.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img_row&quot;&gt;
+	&lt;img class=&quot;col three&quot; src=&quot;/img/9.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col three caption&quot;&gt;
+	A simple, elegant caption looks good between image rows, after each row, or doesn&#39;t have to be there at all. 
+&lt;/div&gt;
+&lt;div class=&quot;img_row&quot;&gt;
+	&lt;img class=&quot;col two&quot; src=&quot;/img/8.jpg&quot; /&gt;
+	&lt;img class=&quot;col one&quot; src=&quot;/img/10.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Slow-carb four dollar toast Helvetica pop-up. Kale chips next level literally trust fund Pitchfork. Jean shorts Pinterest beard, farm-to-table irony craft beer swag tofu 8-bit Banksy. Quinoa forage fanny pack, pug hashtag Echo Park heirloom Schlitz tote bag artisan Neutra mumblecore 90’s shabby chic raw denim.&lt;/p&gt;
+
+&lt;div class=&quot;img_row&quot;&gt;
+	&lt;img class=&quot;col one&quot; src=&quot;/img/11.jpg&quot; /&gt;
+	&lt;img class=&quot;col one&quot; src=&quot;/img/12.jpg&quot; /&gt;
+	&lt;img class=&quot;col one&quot; src=&quot;/img/7.jpg&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 15 May 2015 23:01:00 +0200</pubDate>
+        <link>/2015/05/15/title.html</link>
+        <guid isPermaLink="true">/2015/05/15/title.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>a post with formatting and links</title>
+        <description>&lt;p&gt;Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. &lt;a href=&quot;https://www.pinterest.com&quot; target=&quot;blank&quot;&gt;Pinterest&lt;/a&gt; DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade &lt;a href=&quot;https://en.wikipedia.org/wiki/Cold-pressed_juice&quot; target=&quot;blank&quot;&gt;cold-pressed&lt;/a&gt; meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.&lt;/p&gt;
+
+&lt;h4 id=&quot;hipster-list&quot;&gt;Hipster list&lt;/h4&gt;
+&lt;ul&gt;
+	&lt;li&gt;brunch&lt;/li&gt;
+	&lt;li&gt;fixie&lt;/li&gt;
+	&lt;li&gt;raybans&lt;/li&gt;
+	&lt;li&gt;messenger bag&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90’s yr typewriter selfies letterpress cardigan vegan.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.&lt;/p&gt;
+
+&lt;blockquote&gt;
+	We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another. 
+	—Anais Nin
+&lt;/blockquote&gt;
+
+&lt;p&gt;Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Mar 2015 17:40:16 +0100</pubDate>
+        <link>/2015/03/15/title.html</link>
+        <guid isPermaLink="true">/2015/03/15/title.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
