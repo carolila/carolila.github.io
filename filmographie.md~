@@ -1,10 +1,10 @@
 ---
 layout: page
-title: filmographie
-permalink: /filmographie/
+title: projekte
+permalink: /projekte/
 ---
 
-{% for project in site.filmographie %}
+{% for project in site.projekte %}
 
 {% if project.redirect %}
 <div class="project">

@@ -1,80 +1,11 @@
-<!DOCTYPE html>
-<html>
+---
+layout: page
+title: über mich
+permalink: /about/
+---
+„Ich mache Filme, die persönlich sind oder persönlich werden. Objektivität finde ich langweilig. Augenhöhe mit den Protagonisten sehr gut. Ich erzähle Geschichten, die zum Lachen und gleichzeitig zum Weinen bringen können (vielleicht weil ich mich oft selbst zwischen beidem nicht entscheiden kann...)“<br/>
 
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    <title>über mich</title>
-    <meta name="description" content="Web-Site von Carolin  Genreith, Filmemacherin.
-">
-
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="/about/">
-
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-</head>
-
-
-  <body>
-
-    <header class="site-header">
-
-  <div class="wrapper">
-
-    <nav class="site-nav">
-
-      <div class="trigger">
-        <!-- carolin genreith instead of blog -->
-        <a class="page-link" href="/">home</a>
-
-        
-          
-          <a class="page-link" href="/about/">über mich</a>
-          
-        
-          
-        
-          
-          <a class="page-link" href="/freunde/">freunde</a>
-          
-        
-          
-        
-          
-        
-          
-          <a class="page-link" href="/presseschau/">presseschau</a>
-          
-        
-          
-          <a class="page-link" href="/projekte/">projekte</a>
-          
-        
-
-      </div>
-    </nav>
-
-  </div>
-
-</header>
-
-
-
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">über mich</h1>
-    <h5 class="post-description"></h5>
-  </header>
-
-  <article class="post-content">
-    <p>„Ich mache Filme, die persönlich sind oder persönlich werden. Objektivität finde ich langweilig. Augenhöhe mit den Protagonisten sehr gut. Ich erzähle Geschichten, die zum Lachen und gleichzeitig zum Weinen bringen können (vielleicht weil ich mich oft selbst zwischen beidem nicht entscheiden kann…)“<br /></p>
-
-<div class="img_row"><img class="col right" src="/img/caro.jpg" /></div>
+<div class="img_row"><img class="col right" src="/img/caro.jpg"></div>
 <div class="sub-caption">Vita</div>
 
 <div class="blockquote">Genreith wurde 1984 in Aachen geboren und wuchs mehr oder weniger behütet in der Nordeifel auf. Nach einem Orientierungsjahr in London und einem in Berlin studierte sie TV-Journalismus - und Producing in Berlin und arbeitete nebenbei für diverse Produktionsfirmen als Regieassistentin und Co-Autorin. 
@@ -83,9 +14,10 @@
 Carolin Genreith ist Head-Autorin der Reportagereihe Rami braucht Geld, die 2016 zusammen mit Hupe Film und Unterstützung der Film- und Medienstiftung NRW entwickelt wird. Ihr neuer Dokumentarfilm Happy kommt voraussichtlich im Herbst 2016 in die deutschen Kinos.
 Carolin Genreith lebt und arbeitet als freie Autorin und Regisseurin in Hamburg und Berlin.</div>
 
+
 <div class="sub-caption">Filmografie</div>
 
-<p>Als Regisseurin und Autorin</p>
+Als Regisseurin und Autorin
 <ul>
 <li>Rami braucht Geld, Doku-Reihe – In Entwicklung</li>
 <li>Happy, Kino-Dokumentarfilm (90 Minuten) – In Postproduktion</li>
@@ -96,7 +28,7 @@ Carolin Genreith lebt und arbeitet als freie Autorin und Regisseurin in Hamburg 
 <li>Stuckrad Late Night, 2. Staffel (12 x 45 Minuten), 2012 (als Autorin)</li>
 <li>Ein Tröpfchen Traum, Portrait (30 Minuten), 2011</li>
 </ul>
-<p>Als Creative Producerin</p>
+Als Creative Producerin
 <ul>
 <li>Bruzzeln am Brennpunkt - Lampedusa (30 Minuten, ZDFInfo), 2014</li>
 <li>Bruzzeln am Brennpunkt - Ungarn (30 Minuten, ZDFInfo), 2014</li>
@@ -108,7 +40,7 @@ Carolin Genreith lebt und arbeitet als freie Autorin und Regisseurin in Hamburg 
 <li>Wiso Reisen mit Eva-Maria Lemke, Folge: Rügen (8 Minuten, ZDF), 2013</li>
 </ul>
 
-<p>Als Regieassistentin</p>
+Als Regieassistentin
 <ul>
 <li>Brundibár (Kinodokumentarfilm, R.: Douglas Wolfsperger), 2012</li>
 <li>Doppelleben (Kinodokumentarfilm, R.: Douglas Wolfsperger), 2011</li>
@@ -117,24 +49,23 @@ Carolin Genreith lebt und arbeitet als freie Autorin und Regisseurin in Hamburg 
 <li>Nochmals Richtig Gas Geben - Männer in den Wechseljahren (ZDF, R.: Andrea Schramm), 2009</li>
 </ul>
 
-<p>Festivalteilnahmen, Preise, Nominierungen</p>
+Festivalteilnahmen, Preise, Nominierungen 
 
-<ul>
-<li>Nominierung für den Sistar Frauenfilmpreis für Das Golddorf, 2016
-<li>Weltpremiere von Das Golddorf auf dem DOKFEST München, 2015
-<li>Das Golddorf auf dem Festival des Deutschen Films, 2015
-<li>Gewinnerin des ARD-Dokupitches mit Das Golddorf, 2014
-<li>Grimme-Preis Nominierung für Herr Eppert sucht die Chefin, 2014			  
-<li>Publikumspreis für Die mit dem Bauch tanzen, Festival des Deutschen Films, 2013
-<li>Weltpremiere Die mit dem Bauch tanzen auf der 63. Berlinale, 2013
-<li>kontext-Stipendium für junge Journalisten für die Recherche Uncle Ray in Hong Kong, 2010
+*Nominierung für den Sistar Frauenfilmpreis für Das Golddorf, 2016
+*Weltpremiere von Das Golddorf auf dem DOKFEST München, 2015
+*Das Golddorf auf dem Festival des Deutschen Films, 2015
+*Gewinnerin des ARD-Dokupitches mit Das Golddorf, 2014		
+*Grimme-Preis Nominierung für Herr Eppert sucht die Chefin, 2014			  
+*Publikumspreis für Die mit dem Bauch tanzen, Festival des Deutschen Films,, 2013
+*Weltpremiere Die mit dem Bauch tanzen auf der 63. Berlinale, 2013
+*kontext-Stipendium für junge Journalisten für die Recherche Uncle Ray in Hong Kong, 2010
 
  
 
 
-<br />
-<hr />
-<br />
+<br/>
+<hr/>
+<br/>
 <span class="contacticon center">
 	<a href="mailto:carolin.genreith@gmail.com"><i class="fa fa-envelope-square"></i></a>
 </span>
@@ -143,24 +74,3 @@ Carolin Genreith lebt und arbeitet als freie Autorin und Regisseurin in Hamburg 
 	You can even add a little note about which of these is the best way to reach you.
 </div>
 
-</li></li></li></li></li></li></li></li></ul>
-
-  </article>
-
-</div>
-
-      </div>
-    </div>
-
-    <footer class="site-footer">
-
-  <div class="wrapper">
-  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
-  </div>
-
-</footer>
-
-
-  </body>
-
-</html>

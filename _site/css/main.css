@@ -407,6 +407,13 @@ pre {
 .main-title {
   text-align: right; }
 
+.sub-caption {
+  text-align: center;
+  vertical-align: middle;
+  font-size: 25px;
+  padding-bottom: 15pt;
+  padding-top: 15pt; }
+
 /**
  * Syntax highlighting styles
  */
