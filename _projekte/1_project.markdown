@@ -16,7 +16,7 @@ Deutschland, Frankreich 2013<br/>
 <br/>
 <div class="blockquote">Produktion: Hupe Film<br/>
 <div class="blockquote">Kinoverleih Deutschland, Österreich, Schweiz: Zorro Film</div> 
-Festivalteilnahmen: Berlinale 2013, Festival des Deutschen Films, Musikfilmtage Oberaudorf
+<div class="blockquote">Festivalteilnahmen: Berlinale 2013, Festival des Deutschen Films, Musikfilmtage Oberaudorf
 - Gewinner des mit 10.000 Euro dotierten Publikumspreises auf dem Festival des Deutschen Films 2013
 </div>
 <div class="mov_row">

@@ -20,9 +20,8 @@ Festivalteilnahmen: Berlinale 2013, Festival des Deutschen Films, Musikfilmtage 
 - Gewinner des mit 10.000 Euro dotierten Publikumspreises auf dem Festival des Deutschen Films 2013
 </div>
 <div class="mov_row">
-  <embed src="http://www.youtube.com/v/WwpvRrD55rU?version=3&amp;hl=en_US&amp;rel=0&amp;autohide=1&amp;autoplay=0" wmode="transparent" type="application/x-shockwave-flash" width="100%" height="100%" allowfullscreen="true" title="Adobe Flash Player">
-</div>
 <iframe src="https://player.vimeo.com/video/66388542" width="640" height="360" frameborder="0" align="center" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 <a href="http://bauchtanz-film.de" target="_blank">http://bauchtanz-film.de</a>
 
 Die DVD bei <a href="http://www.amazon.de/dp/B00IFYMYE8" target="_blank">Amazon</a>
