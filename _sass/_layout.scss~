@@ -292,12 +292,16 @@ font-style: italic;
 }
 .mov_row{
 overflow: hidden;
-padding: $img_spacing;
+padding: 15pt;
 align: center;
-width: 500px; 
-height: 282px;
 float: none; 
 clear: both; 
 margin: 2px auto;
 }
-
+.img_row_vert{
+width: $img_width;
+align: center;
+overflow: hidden;
+box-sizing:border-box;
+padding: $img_spacing;
+}

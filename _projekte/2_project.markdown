@@ -15,42 +15,47 @@ Deutschland, 2015<br/>
 <br/>
 <div class="blockquote">Produktion: Nordend Film im Auftrag der ARD<br/>
 <div class="blockquote">Festivalteilnahmen: Dokfest München, Festival des Deutschen Films
-Gewinner des ARD-Dokupitches 2014
+<br/>Gewinner des ARD-Dokupitches 2014
 </div>
 <div class="mov_row">
 <iframe src="https://player.vimeo.com/video/137831101" width="640" height="360" frameborder="0" align="center" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 Der Film in der <a href="http://www.ardmediathek.de/tv/Dokumentarfilm/Das-Golddorf-Asyl-im-Heimatidyll/Bayerisches-Fernsehen/Video?bcastId=24831852&documentId=32866762" target="_blank">ARD-Mediathek</a>
-<br/>
+<br/><br/>
 <div class="blockquote">
-BUCH & REGIE
-Carolin Genreith
-KAMERA
-Philipp Baben der Erde
-SCHNITT
-Stefanie Kosik
-TON
-Andreas Prescher
-MUSIK
-Fabian Saul, Rafael Triebel
-TITEL
-Thomas Schmidl
-SOUNDDESIGN
-Henning Hein
-MISCHUNG
-Tilo Busch
-POSTPRODUKTION
-Rombach und Partner
-FARBKORREKTUR
-Günter Berghaus
-PRODUKTIONSASSISTENZ
-Florian-Malte Fimpel
-FILMGESCHÄFTSFÜHRUNG
-Bernhard Rand
-REDAKTION
-Jutta Krug, Enno Hungerland
-PRODUZENTEN
-Erik Winker, Martin Roelly, 
-Andreas Brauer
-</div>
+BUCH & REGIE Carolin Genreith 
+
+KAMERA Pedram Noutash 
+Philipp Baben der Erde 
+
+SCHNITT Stefanie Kosik-Wartenberg 
+
+TON Alex Rubin
+
+
+Silvio Herrmann
+
+Manuel Vogt 
+
+MUSIK Fabian Saul, Rafael Triebel 
+
+DRAMATURGISCHE BERATUNG Timo Großpietsch 
+
+SOUNDDESIGN & MISCHUNG Janis Grossmann, CSC Hamburg 
+
+FARBKORREKTUR Jil Heiser, Fernsehecke Hamburg 
+
+REDAKTION Barbara Denz / NDR,
+
+
+Jutta Krug / WDR,
+
+Gabriele Konrad / RBB,
+
+Gudrun Hanke-El-Ghomri / SWR,
+
+Ulrich Gambke / BR 
+
+PRODUZENTEN Thorsten Eppert
+Adrian Stangl</div>
 

@@ -17,6 +17,7 @@ description:
 <div class="quotation">Wie diese Welten aufeinanderprallen, ohne zu einer zu werden, macht den Film sehenswert und zugleich tragikomisch. Und während Bauer Vachenauer seine Kühe fürsorglich über die Wiesen dirigiert, erzählt der Eritreer von seiner qualvollen Flucht durch Libyen. Ohne Essen, ohne Duschen, ohne Platz. Aber in der ständigen Angst, erschossen zu werden, einfach so.</div> 	
 <a href="http://www.sueddeutsche.de/medien/ard-doku-zu-das-golddorf-asyl-im-idyll-1.2584281" target="_blank">Süddeutsche Zeitung, 27.07.15</a>
 
+<a href="http://www.br.de/br-fernsehen/sendungen/puzzle/golddorf-100.html" target="_blank">BR-puzzle über den Film</a>
 
 
 

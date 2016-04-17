@@ -67,11 +67,4 @@ Festivalteilnahmen, Preise, Nominierungen
 <br/>
 <hr/>
 <br/>
-<span class="contacticon center">
-	<a href="mailto:carolin.genreith@gmail.com"><i class="fa fa-envelope-square"></i></a>
-</span>
-
-<div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
-</div>
 

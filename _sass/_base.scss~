@@ -18,8 +18,9 @@ $vertical-spacing-unit:         20px;
 $nav-height:                    56px;
 
 /* portfolio tinkering */
-$img_spacing: 0px; 
+$img_spacing: 5px; 
 $img_height: 275px;
+$img_width: 100px;
 $caption_font_size: 12px;
 $caption_color: #aaa;
 $sub_caption_font_size: 25px;
