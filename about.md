@@ -6,16 +6,16 @@ permalink: /about/
 „Ich mache Filme, die persönlich sind oder persönlich werden. Objektivität finde ich langweilig. Augenhöhe mit den Protagonisten sehr gut. Ich erzähle Geschichten, die zum Lachen und gleichzeitig zum Weinen bringen können (vielleicht weil ich mich oft selbst zwischen beidem nicht entscheiden kann...)“<br/>
 
 <div class="img_row"><img class="col right" src="/img/caro.jpg"></div>
-<div class="sub-caption">Vita</div>
+<div class="sub-caption">vita</div>
 
-<div class="blockquote">Genreith wurde 1984 in Aachen geboren und wuchs mehr oder weniger behütet in der Nordeifel auf. Nach einem Orientierungsjahr in London und einem in Berlin studierte sie TV-Journalismus - und Producing in Berlin und arbeitete nebenbei für diverse Produktionsfirmen als Regieassistentin und Co-Autorin. 
+<div class="blockquote">Carolin Genreith wurde 1984 in Aachen geboren und wuchs mehr oder weniger behütet in der Nordeifel auf. Nach einem Orientierungsjahr in London und einem in Berlin studierte sie TV-Journalismus - und Producing in Berlin und arbeitete nebenbei für diverse Produktionsfirmen als Regieassistentin und Co-Autorin. 
 2013 wurde ihr Debütfilm Die mit dem Bauch tanzen auf der Berlinale uraufgeführt und gewann auf dem Festival des deutschen Films den Publikumspreis. Im Sommer desselben Jahres folgte eine erfolgreiche Kinoauswertung des Films mit über 50.000 Zuschauern und die Ausstrahlung des Films in der ARD. 
 2013 verantwortete Carolin Genreith die vierte Staffel der ZDFneo-Reihe Herr Eppert sucht als Creative Producerin und wurde 2014 für Herr Eppert sucht die Chefin als Co-Autorin für den Grimme-Preis nominiert. 2014 gewann sie mit ihrem Konzept für den langen Dokumentarfilm Das Golddorf den ARD-Doku-Pitch. Das Golddorf feierte 2015 auf dem Dokfest München Premiere und wurde anschließend in der ARD ausgestrahlt.
 Carolin Genreith ist Head-Autorin der Reportagereihe Rami braucht Geld, die 2016 zusammen mit Hupe Film und Unterstützung der Film- und Medienstiftung NRW entwickelt wird. Ihr neuer Dokumentarfilm Happy kommt voraussichtlich im Herbst 2016 in die deutschen Kinos.
 Carolin Genreith lebt und arbeitet als freie Autorin und Regisseurin in Hamburg und Berlin.</div>
 
 
-<div class="sub-caption">Filmografie</div>
+<div class="sub-caption">filmografie</div>
 
 Als Regisseurin und Autorin
 <ul>

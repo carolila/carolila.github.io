@@ -281,9 +281,23 @@ font-size: $caption_font_size;
 	text-align: right;
 }
 .sub-caption {
-text-align: center;
+text-align: left;
 vertical-align: middle;
 font-size: $sub_caption_font_size;
 padding-bottom: 15pt;
 padding-top: 15pt;
 }
+.quotation {
+font-style: italic;
+}
+.mov_row{
+overflow: hidden;
+padding: 15pt;
+align: center;
+width: 500px; 
+height: 282px;
+float: none; 
+clear: both; 
+margin: 2px auto;
+}
+
