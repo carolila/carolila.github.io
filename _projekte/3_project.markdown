@@ -18,47 +18,44 @@ Happy ist ein ehrlicher Film über einen alternden Mann, der nicht einsieht, war
 </div>
 <br/>
 <div class="blockquote">2016/2017 im Kino</div>
-<div class="blockquote">Produktion: Hupe Film<div/>
 <div class="blockquote">Verleih: Zorro Film<div/>
-<div class="img_row_vert">
-	<img class="col2 three" src="{{ site.baseurl }}/img/Caro_Torte.jpg" title="Thaifamily"/>
+<div class="blockquote">Produktion: Hupe Film<div/>
+<div class="blockquote">In Co-Produktion dem WDR 
+
+<br/>Gefördert von der Filmstiftung NRW, der Filmförderung Hamburg Schleswig-Holstein der 
+
+FFA und dem DFFF</div>
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/Caro_Torte.jpg" title="Torte"/>
+	<img class="col one" src="{{ site.baseurl }}/img/PapaTuktaOma.jpg" title="Family"/>
+	<img class="col one" src="{{ site.baseurl }}/img/tukta.JPG" title="Tukta"/>
+
 </div>
-Der Film in der <a href="http://www.ardmediathek.de/tv/Dokumentarfilm/Das-Golddorf-Asyl-im-Heimatidyll/Bayerisches-Fernsehen/Video?bcastId=24831852&documentId=32866762" target="_blank">ARD-Mediathek</a>
 <br/><br/>
 <div class="blockquote">
 BUCH & REGIE Carolin Genreith 
 
-KAMERA Pedram Noutash 
-Philipp Baben der Erde 
+KAMERA Philipp Baben der Erde 
 
 SCHNITT Stefanie Kosik-Wartenberg 
 
-TON Alex Rubin
+TON Michael Geck 
 
+MUSIK Fabian Saul, Rafael Triebel
 
-Silvio Herrmann
+POSTPRODUKTION Rombach und Partner 
 
-Manuel Vogt 
+STRINGER THAILAND Daniel Meiner 
 
-MUSIK Fabian Saul, Rafael Triebel 
+SCHNITTASSISTENZ Sabrina Knierim 
 
-DRAMATURGISCHE BERATUNG Timo Großpietsch 
+ÜBERSETZUNGEN Phanneeya Horsap, Daniel Meiner 
 
-SOUNDDESIGN & MISCHUNG Janis Grossmann, CSC Hamburg 
+PRODUKTIONSLEITUNG Florian Fimpel 
 
-FARBKORREKTUR Jil Heiser, Fernsehecke Hamburg 
+TRANSKRIPTE Caroline Prinz-Holtorf 
 
-REDAKTION Barbara Denz / NDR,
+REDAKTION Jutta Krug/WDR 
 
-
-Jutta Krug / WDR,
-
-Gabriele Konrad / RBB,
-
-Gudrun Hanke-El-Ghomri / SWR,
-
-Ulrich Gambke / BR 
-
-PRODUZENTEN Thorsten Eppert
-Adrian Stangl</div>
+PRODUZENTEN Erik Winker, Martin Roelly
 
