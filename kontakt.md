@@ -5,7 +5,7 @@ title: kontakt
 description:
 ---
 <span class="contacticon center">
-	<a href="mailto:genreith-film@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="mailto:carolin.genreith@gmail.com"><i class="fa fa-envelope-square"></i></a>
 </span>
 
 <div class="col three caption">
